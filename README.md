@@ -28,9 +28,6 @@ Search Pokémon by name and view basic details like height, weight, and abilitie
 3. Run `npm start` to start the app  
 4. Open [http://localhost:3000](http://localhost:3000) in your browser  
 
-## Author
-
-Ana Alves
 
 ## Useful Links
 
