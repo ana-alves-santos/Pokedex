@@ -18,7 +18,7 @@ Search Pokémon by name and view basic details like height, weight, and abilitie
 
 - JavaScript
 - React  
-- CSS  
+- HTML & CSS  
 - Fetch API  
 
 ## Getting Started
