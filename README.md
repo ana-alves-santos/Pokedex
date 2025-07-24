@@ -1,4 +1,4 @@
-# React Pokédex
+# Pokédex
 
 A Pokédex built with React that fetches data from the public [PokéAPI](https://pokeapi.co/).  
 Search Pokémon by name and view basic details like height, weight, and abilities.
