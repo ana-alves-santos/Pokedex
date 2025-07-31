@@ -17,7 +17,7 @@ A Pokédex built with React that fetches data from the public [PokéAPI](https:/
 
 - JavaScript
 - React  
-- HTML & CSS  
+- HTML5 & CSS3  
 - Fetch API  
 
 ## Getting Started
